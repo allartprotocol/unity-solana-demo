@@ -8,7 +8,7 @@ using UnityEngine.UI;
 using TMPro;
 using Solnet.Rpc.Models;
 
-public class GameSelectionScreen : Screen
+public class GameSelectionScreen : SimpleScreen
 {
     [Header("UI Elements (Buttons)")]
     public Button galaxy_wars_btn;

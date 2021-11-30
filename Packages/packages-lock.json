@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.allart.solana_wallet": {
-      "version": "file:C:/Users/Administrator/Documents/Projects/AllArt/github/unity-solana-wallet",
+      "version": "file:C:/Users/Administrator/Documents/Projects/AllArt/github/unity-solana-wallet/Assets",
       "depth": 0,
       "source": "local",
       "dependencies": {}

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 namespace AllArt.Solana.Example
 {
-    public class ReGenerateAccountScreen : Screen
+    public class ReGenerateAccountScreen : SimpleScreen
     {
         public TMP_InputField mnemonic_txt;
         public Button generate_btn;
@@ -44,8 +44,8 @@ namespace AllArt.Solana.Example
             base.ShowScreen();
 
             error_txt.text = "";
+            //mnemonic_txt.text = "margin toast sheriff air tank liar tuna oyster cake tell trial more rebuild ostrich sick once palace uphold fall faculty clap slam job pitch";
             mnemonic_txt.text = "gym basket dizzy chest pact rubber canvas staff around shadow brain purchase hello parent digital degree window version still rather measure brass lock arrest";
-                //"margin toast sheriff air tank liar tuna oyster cake tell trial more rebuild ostrich sick once palace uphold fall faculty clap slam job pitch";//"";
 
             gameObject.SetActive(true);
         }
