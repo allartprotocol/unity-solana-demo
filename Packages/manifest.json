@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.allart.solana_wallet": "file:C:/Users/Administrator/Documents/Projects/AllArt/github/unity-solana-wallet/Assets",
+    "com.allart.solana_wallet": "file:D:/Dejan Vuckovic/AllArtSolanaWallet",
     "com.unity.2d.animation": "5.0.7",
     "com.unity.2d.pixel-perfect": "4.0.1",
     "com.unity.2d.psdimporter": "4.1.0",
