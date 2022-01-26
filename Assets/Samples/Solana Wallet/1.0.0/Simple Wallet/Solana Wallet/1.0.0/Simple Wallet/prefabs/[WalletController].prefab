@@ -43,8 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 653ac91d5a7e8f64ca09fdbacb357c84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  customUrl: https://psytrbhymqlkfrhudd.dev.genesysgo.net:8899/
+  customUrl: http://192.168.0.22:8899
   clientSource: 0
   autoConnectOnStartup: 1
-  webSocketService: {fileID: 0}
-  storageMethod: 0
